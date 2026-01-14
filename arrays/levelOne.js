@@ -85,3 +85,21 @@ console.log("Category Counts:", categoryCounts);
 
 console.log("\n--- Phase 4: Chaining ---");
 console.log("Total Dev Hours:", totalDevHours);
+
+// ... all your filter/map/reduce code above ...
+
+// The "Export" block (Like making properties public in a PHP Class)
+if (typeof module !== 'undefined') {
+    module.exports = {
+        devTasks,
+        heavyTasks,
+        urgentOpenTasks,
+        taskTitles,
+        taskStatuses,
+        billedTasks,
+        totalHours,
+        categoryCounts,
+        longestTask,
+        totalDevHours
+    };
+}
