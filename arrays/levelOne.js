@@ -71,7 +71,7 @@ const totalDevHours = null;
 // TEST YOUR RESULTS
 // ---------------------------------------------------------
 console.log("--- Phase 0: Original Array ---");
-console.log("Dev Tasks:", tasks);
+console.log("Tasks:", tasks);
 
 console.log("--- Phase 1: Filter ---");
 console.log("Dev Tasks:", devTasks);
