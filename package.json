@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cd tests && node levelOne.test.js"
+    "test-1": "cd tests && node levelOne.test.js"
   },
   "keywords": [],
   "author": "",
