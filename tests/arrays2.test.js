@@ -1,4 +1,4 @@
-const kata = require('../arrays/levelTwo.js');
+const kata = require('../arrays/arrays2.js');
 
 function assertEquals(actual, expected, testName) {
     if (actual !== null && actual !== undefined) {

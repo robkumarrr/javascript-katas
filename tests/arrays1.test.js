@@ -1,5 +1,5 @@
-// 1. Import the data from your levelOne.js file
-const kata = require('../arrays/levelOne.js');
+// 1. Import the data from your arrays1.js file
+const kata = require('../arrays/arrays1.js');
 
 // 2. The Assertion Helper
 function assertEquals(actual, expected, testName) {
