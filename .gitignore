@@ -44,4 +44,4 @@ coverage/
 Thumbs.db
 
 # IDE-specific files
-.idea
+.idea/
